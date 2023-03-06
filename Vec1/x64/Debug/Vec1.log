@@ -1,0 +1,4 @@
+﻿  Vec1.cpp
+C:\Users\ogani\source\repos\Vec1\Vec1\Vec1.cpp(20,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+Vec1.obj : error LNK2019: ссылка на неразрешенный внешний символ "void __cdecl sredznnach(class std::vector<class std::vector<int,class std::allocator<int> >,class std::allocator<class std::vector<int,class std::allocator<int> > > > &,int &,int &)" (?sredznnach@@YAXAEAV?$vector@V?$vector@HV?$allocator@H@std@@@std@@V?$allocator@V?$vector@HV?$allocator@H@std@@@std@@@2@@std@@AEAH1@Z) в функции main.
+C:\Users\ogani\source\repos\Vec1\x64\Debug\Vec1.exe : fatal error LNK1120: неразрешенных внешних элементов: 1
